@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings" />
+    <string name="titre_section0">hiver</string>
+    <string name="titre_section1">printemps</string>
+    <string name="titre_section2">ete</string>
+    <string name="titre_section3">automne</string>
+
+</resources>
